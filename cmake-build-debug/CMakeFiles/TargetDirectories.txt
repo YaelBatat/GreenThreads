@@ -1,0 +1,3 @@
+/Users/yaelbatat/Desktop/c-ex/GreenThreads/cmake-build-debug/CMakeFiles/GreenThreads.dir
+/Users/yaelbatat/Desktop/c-ex/GreenThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaelbatat/Desktop/c-ex/GreenThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
